@@ -1,0 +1,26 @@
+17:43:40: Starting /opt/ev2/bin/ev2 on ufc-hmi...
+Warning: Identity file  not accessible: No such file or directory.
+Server IP: "192.168.3.120"
+Server Port: 1883
+INFO: Status: QMqttClient::Disconnected
+INFO: Status : QMqttClient::Disconnected
+INFO: Connecting to broker...
+INFO: Status : QMqttClient::Connecting
+INFO: Status: QMqttClient::Connecting
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+updateLogStateChange QMqttClient::Connected
+INFO: State:  QMqttClient::Connected
+INFO: All topics subscribed!!
+MESSGAE: Tpoic :  "vsecc/connector/1/status/charging_authorization_state"  Payload :  "pending"
+MESSGAE: Tpoic :  "vsecc/connector/1/ev/cp_state"  Payload :  "state_a"
+MESSGAE: Tpoic :  "vsecc/connector/1/em/transferred_energy"  Payload :  "1.899440"
+MESSGAE: Tpoic :  "vsecc/ocpp_connection_status"  Payload :  "connected"
+MESSGAE: Tpoic :  "vsecc/connector/1/status/availability"  Payload :  "operative"
+MESSGAE: Tpoic :  "vsecc/connector/1/em/signed_reading"  Payload :  "NOT_SUPPORTED|signed meter readings not supported by virtual energy meter"
+MESSGAE: Tpoic :  "vsecc/connector/1/em/unsigned_reading"  Payload :  "2023-08-18T12:12:20Z|1.961155|0"
+MESSGAE: Tpoic :  "vsecc/connector/2/status/charging_authorization_state"  Payload :  "pending"
+MESSGAE: Tpoic :  "vsecc/connector/2/em/transferred_energy"  Payload :  "0.165231"
+MESSGAE: Tpoic :  "vsecc/connector/2/ev/cp_state"  Payload :  "state_a"
+MESSGAE: Tpoic :  "vsecc/connector/2/status/availability"  Payload :  "operative"
+MESSGAE: Tpoic :  "vsecc/connector/2/em/signed_reading"  Payload :  "NOT_SUPPORTED|signed meter readings not supported by virtual energy meter"
+MESSGAE: Tpoic :  "vsecc/connector/2/em/unsigned_reading"  Payload :  "2023-08-18T12:12:20Z|0.312372|0"

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data/image">
+        <file>ev_car.png</file>
+        <file>charge.png</file>
+    </qresource>
+</RCC>
